@@ -74,11 +74,11 @@ Upon completion, a .txt file in JSON format is generated. This file contains the
 If you would like to use the data or code, please cite the paper:
 
 ```
-@misc{maatouk2023large,
-      title={Large Language Models for Telecom: Forthcoming Impact on the Industry}, 
-      author={Ali Maatouk and Nicola Piovesan and Fadhel Ayed and Antonio De Domenico and Merouane Debbah},
+@misc{@misc{maatouk2023teleqna,
+      title={TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge}, 
+      author={Ali Maatouk and Fadhel Ayed and Nicola Piovesan and Antonio De Domenico and Merouane Debbah and Zhi-Quan Luo},
       year={2023},
-      eprint={2308.06013},
+      eprint={2310.15051},
       archivePrefix={arXiv},
       primaryClass={cs.IT}
      }
