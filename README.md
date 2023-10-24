@@ -14,6 +14,7 @@ TeleQnA is a comprehensive dataset tailored to assess the knowledge of Large Lan
 
 - **Standards specification:** With 2,000 questions, this category explores the technical specifications and practical implementations of telecommunications systems, leveraging information from standardization bodies like 3GPP and IEEE.
 
+For more in-depth information about the dataset and the generation process, please refer to our paper by following this [link](https://arxiv.org/abs/2310.15051).
 
 ## Dataset Format
 
