@@ -74,7 +74,7 @@ Upon completion, a .txt file in JSON format is generated. This file contains the
 If you would like to use the data or code, please cite the paper:
 
 ```
-@misc{@misc{maatouk2023teleqna,
+@misc{maatouk2023teleqna,
       title={TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge}, 
       author={Ali Maatouk and Fadhel Ayed and Nicola Piovesan and Antonio De Domenico and Merouane Debbah and Zhi-Quan Luo},
       year={2023},
