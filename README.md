@@ -12,7 +12,7 @@ TeleQnA is a comprehensive dataset tailored to assess the knowledge of Large Lan
 
 - **Standards overview:** This category consists of 1,000 questions related to summaries of standards from multiple standarization bodies like 3GPP and IEEE.
 
-- **Standards specification:** With 2,000 questions, this category explores the technical specifications and practical implementations of telecommunications systems, leveraging information from standardization bodies like 3GPP and IEEE.
+- **Standards specifications:** With 2,000 questions, this category explores the technical specifications and practical implementations of telecommunications systems, leveraging information from standardization bodies like 3GPP and IEEE.
 
 For more in-depth information about the dataset and the generation process, please refer to our paper by following this [link](https://arxiv.org/abs/2310.15051).
 
@@ -28,7 +28,7 @@ Each question is represented in JSON format, comprising five distinct fields:
 
 - **Explanation:** This field encompasses a string that clarifies the reasoning behind the correct answer.
 
-- **Category:** This field includes a label identifying the source category (e.g., Lexicon, research overview, etc.).
+- **Category:** This field includes a label identifying the source category (e.g., lexicon, research overview, etc.).
 
 ## Dataset Instance 
 
@@ -52,7 +52,7 @@ question 2045: {
 
 ## Experiments Code
 
-The provided code allows to evaluate the performance of OpenAI's models (e.g., GPT-3.5). To do so, follow the below steps
+The provided code allows to evaluate the performance of OpenAI's models (e.g., GPT-3.5). To do so, follow the below steps:
 
 - Clone the repository
 - Install the required dependencies using the following command:
