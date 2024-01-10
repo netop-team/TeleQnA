@@ -55,7 +55,7 @@ question 2045: {
 The provided code allows to evaluate the performance of OpenAI's models (e.g., GPT-3.5). To do so, follow the below steps:
 
 - Clone the repository
-- Unzip TeleQnA.zip using the password ```teleqnadataset``
+- Unzip TeleQnA.zip using the password ```teleqnadataset```
 - Install the required dependencies using the following command:
 
 ```pip install -r requirements.txt```
